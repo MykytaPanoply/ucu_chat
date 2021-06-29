@@ -2,11 +2,14 @@
 
 A new Flutter project.
 
+## Presentation:
+[Link](https://docs.google.com/presentation/d/1RZ2Vxk7MsDvKMtod0sZ706mBEQm-2G3iz98f5KuXtVQ/edit?usp=sharing)
+
 ## TODO:
-- <b>create mockup in Figma</b>
-- <b>prepare tools (Github project, Google Firebase project)</b>
-- create pages and implement basic design</b>
-- create authentication
+- create mockup in Figma <b>DONE</b>
+- prepare tools (Github project, Google Firebase project) <b>DONE</b>
+- create pages and implement basic design <b>DONE</b>
+- create authentication <b>DONE</b>
 - create chat
 
 ## Description
